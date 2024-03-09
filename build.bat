@@ -1,0 +1,1 @@
+pyinstaller -F -w --hidden-import winrt.windows.foundation.collections main.py
